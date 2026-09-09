@@ -2,5 +2,7 @@
 
 
 1- Visit weather api, sign in and generate API.
+
 2- Now, paste this API into script.js file.
+
 3- Run the app - python3 -m http.server 8000
